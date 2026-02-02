@@ -2,4 +2,4 @@
 This is my submission for the challenge.
 
 ## Live Demo
-[Solution URL](https://sayyidhrp.github.io/Single-Page-CV/)
+[Live Demo](https://sayyidhrp.github.io/Single-Page-CV/)
